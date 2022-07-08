@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IntervalTimer": {
+      "commandName": "Project",
+      "commandLineArgs": "60 Squats Pushups Situps"
+    }
+  }
+}
